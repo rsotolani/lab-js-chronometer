@@ -1,3 +1,5 @@
+// este arquivo manipula o DOM
+
 const chronometer = new Chronometer();
 
 const btnLeft = document.getElementById('btnLeft');
